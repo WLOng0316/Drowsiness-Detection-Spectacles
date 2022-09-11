@@ -4,7 +4,7 @@ A portable clip like product which will be clipped on the spectacles and alert t
 # Demonstration Video
 https://user-images.githubusercontent.com/87352340/189517057-43f34d7d-4651-4de4-8fba-c109af45f365.mp4
 
-Schematic Diagram 
+# Schematic Diagram 
 ![ETP Schematic Final](https://user-images.githubusercontent.com/87352340/189517277-c1f27654-4887-40b7-86fb-a0c189c3715e.jpg)
 
 # Report
